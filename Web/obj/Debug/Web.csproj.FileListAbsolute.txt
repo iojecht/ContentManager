@@ -1,6 +1,0 @@
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\bin\Web.dll
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\bin\Web.pdb
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\obj\Debug\Web.dll
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\obj\Debug\Web.pdb
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\obj\Debug\Web.csprojResolveAssemblyReference.cache
-C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Web\bin\Web.dll.config

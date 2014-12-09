@@ -6,7 +6,7 @@ namespace Core.Controller
     public class OrdersController : ApiController
     {
         [Authorize]
-        [Route("")]
+        //[Route("")]
         public IHttpActionResult Get()
         {
             return Ok(Order.CreateOrders());

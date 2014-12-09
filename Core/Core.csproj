@@ -119,6 +119,46 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Lib\app\controller\rainier.js" />
+    <Content Include="Lib\app\controller\shell.js" />
+    <Content Include="Lib\app\views\home.html" />
+    <Content Include="Lib\app\controller\home.js" />
+    <Content Include="Lib\app\views\rainier.html" />
+    <Content Include="Lib\app\views\shell.html" />
+    <Content Include="Lib\bootstrap\css\bootstrap.css" />
+    <Content Include="Lib\app\site.css" />
+    <Content Include="Lib\bootstrap\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="index.html" />
+    <Content Include="Lib\app\main.js" />
+    <Content Include="Lib\bootstrap\js\bootstrap.js" />
+    <Content Include="Lib\durandal\css\durandal.css" />
+    <Content Include="Lib\durandal\img\icon.png" />
+    <Content Include="Lib\durandal\img\ios-startup-image-landscape.png" />
+    <Content Include="Lib\durandal\img\ios-startup-image-portrait.png" />
+    <Content Include="Lib\durandal\js\activator.js" />
+    <Content Include="Lib\durandal\js\app.js" />
+    <Content Include="Lib\durandal\js\binder.js" />
+    <Content Include="Lib\durandal\js\composition.js" />
+    <Content Include="Lib\durandal\js\events.js" />
+    <Content Include="Lib\durandal\js\plugins\dialog.js" />
+    <Content Include="Lib\durandal\js\plugins\history.js" />
+    <Content Include="Lib\durandal\js\plugins\http.js" />
+    <Content Include="Lib\durandal\js\plugins\observable.js" />
+    <Content Include="Lib\durandal\js\plugins\router.js" />
+    <Content Include="Lib\durandal\js\plugins\serializer.js" />
+    <Content Include="Lib\durandal\js\plugins\widget.js" />
+    <Content Include="Lib\durandal\js\system.js" />
+    <Content Include="Lib\durandal\js\transitions\entrance.js" />
+    <Content Include="Lib\durandal\js\viewEngine.js" />
+    <Content Include="Lib\durandal\js\viewLocator.js" />
+    <Content Include="Lib\font-awesome\css\font-awesome.css" />
+    <Content Include="Lib\font-awesome\css\font-awesome.min.css" />
+    <Content Include="Lib\font-awesome\fonts\fontawesome-webfont.svg" />
+    <Content Include="Lib\jquery\jquery.js" />
+    <Content Include="Lib\knockout\knockout-3.1.0.debug.js" />
+    <Content Include="Lib\knockout\knockout-3.1.0.js" />
+    <Content Include="Lib\require\require.js" />
+    <Content Include="Lib\require\text.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
@@ -135,6 +175,13 @@
   </ItemGroup>
   <ItemGroup>
     <Content Include="packages.config" />
+    <Content Include="Lib\bootstrap\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Lib\bootstrap\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Lib\bootstrap\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Lib\font-awesome\fonts\fontawesome-webfont.eot" />
+    <Content Include="Lib\font-awesome\fonts\fontawesome-webfont.ttf" />
+    <Content Include="Lib\font-awesome\fonts\fontawesome-webfont.woff" />
+    <Content Include="Lib\font-awesome\fonts\FontAwesome.otf" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
@@ -144,6 +191,10 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
+    <Folder Include="Lib\app\datacontext\" />
+    <Folder Include="Lib\app\dataservices\" />
+    <Folder Include="Lib\app\models\" />
+    <Folder Include="Lib\app\viewmodels\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>

@@ -6,3 +6,9 @@ C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Tests\o
 C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Tests\obj\Debug\Tests.dll
 C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Tests\obj\Debug\Tests.pdb
 C:\Users\MarkAngelo\Documents\Visual Studio 2013\Projects\ContentManager\Tests\bin\Debug\Tests.dll.config
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\bin\Debug\Tests.dll.config
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\bin\Debug\Tests.dll
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\bin\Debug\Tests.pdb
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\obj\Debug\Tests.csprojResolveAssemblyReference.cache
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\obj\Debug\Tests.dll
+C:\Users\Mark\Documents\GitHub\ContentManager\Tests\obj\Debug\Tests.pdb
